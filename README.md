@@ -14,4 +14,8 @@
 ```php
 <?php echo "Hola PHP" ?>
 ```
+
+```JS
+  console.log("Mensaje JS")
+```
 *[Visit me](http://www.isit.com.co)
