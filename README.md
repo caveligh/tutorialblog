@@ -11,4 +11,7 @@
 </body>
 </html>
 ```
+```php
+<?php echo "Hola PHP" ?>
+```
 *[Visit me](http://www.isit.com.co)
