@@ -1,5 +1,6 @@
 ## Página de tutoriales de desarrollo web
-'''html
+
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,5 +10,5 @@
 <h2>Tutoriales y cursos sobre desarrollo web</h2>
 </body>
 </html>
-'''
+```
 *[Visit me](http://www.isit.com.co)
